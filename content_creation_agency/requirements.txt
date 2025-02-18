@@ -1,0 +1,10 @@
+agency-swarm
+openai>=1.0.0
+numpy==1.23.5
+pandas==1.5.3
+pandasai==2.0.0
+requests
+python-dotenv
+matplotlib
+seaborn
+gradio 
